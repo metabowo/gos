@@ -2,5 +2,5 @@ package gos
 
 
 func SayGos () string {
-	return "ello word"
+	return "ello h"
 }
