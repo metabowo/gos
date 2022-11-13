@@ -1,6 +1,6 @@
 package gos
 
 
-func SayGos () string {
-	return "ello h"
+func SayGos (name string) string {
+	return "ello h" + name
 }
